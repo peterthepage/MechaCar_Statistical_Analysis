@@ -10,10 +10,10 @@ The Total Summary table is looking at PSI statistics across all lots where as th
 ![pic3](https://github.com/peterthepage/MechaCar_Statistical_Analysis/blob/main/Resources/Capture3.PNG)
 ## T-Tests on Suspension Coils
 * T Test for All Lots - 
-![pic4](https://github.com/peterthepage/MechaCar_Statistical_Analysis/blob/main/Resources/Capture4.PNG)
+![pic4](https://github.com/peterthepage/MechaCar_Statistical_Analysis/blob/main/Resources/Capture7.PNG)
 * T Test for Lot 1
-![pic5](https://github.com/peterthepage/MechaCar_Statistical_Analysis/blob/main/Resources/Capture5.PNG)
+![pic5](https://github.com/peterthepage/MechaCar_Statistical_Analysis/blob/main/Resources/Capture4.PNG)
 * T Test for Lot 2
-![pic6](https://github.com/peterthepage/MechaCar_Statistical_Analysis/blob/main/Resources/Capture6.PNG)
+![pic6](https://github.com/peterthepage/MechaCar_Statistical_Analysis/blob/main/Resources/Capture5.PNG)
 * T Test for Lot 3
-![pic7](https://github.com/peterthepage/MechaCar_Statistical_Analysis/blob/main/Resources/Capture7.PNG)
+![pic7](https://github.com/peterthepage/MechaCar_Statistical_Analysis/blob/main/Resources/Capture6.PNG)
