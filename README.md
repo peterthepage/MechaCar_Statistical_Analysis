@@ -9,7 +9,7 @@
 The Total Summary table is looking at PSI statistics across all lots where as the Lots Summaries show statistcs of each lot. As seen, Lot 1 and 2, are very similar while Lot 3 has a smaller mean with a bigger variance and standard deviation (SD).
 ![pic3](https://github.com/peterthepage/MechaCar_Statistical_Analysis/blob/main/Resources/Capture3.PNG)
 ## T-Tests on Suspension Coils
-* T Test for All Lots
+* T Test for All Lots - 
 ![pic4](https://github.com/peterthepage/MechaCar_Statistical_Analysis/blob/main/Resources/Capture7.PNG)
 * T Test for Lot 1
 ![pic5](https://github.com/peterthepage/MechaCar_Statistical_Analysis/blob/main/Resources/Capture4.PNG)
